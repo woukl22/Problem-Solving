@@ -28,3 +28,6 @@ Aims to solve problems every day at least one problem.
 - 10870 / 피보나치 수 5
 - 2447 / 별 찍기-10
 - 11729 / 하노이 탑 이동 순서
+
+#### 11 Brute force
+- 1436 / 영화감독 숌
