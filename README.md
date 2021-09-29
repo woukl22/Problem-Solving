@@ -31,3 +31,6 @@ Aims to solve problems every day at least one problem.
 
 #### 11 Brute force
 - 1436 / 영화감독 숌
+
+#### 12 Sort
+- 10989 / 수 정렬하기 3
