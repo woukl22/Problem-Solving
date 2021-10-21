@@ -36,3 +36,4 @@ Aims to solve problems every day at least one problem.
 - 10989 / 수 정렬하기 3
 - 11650 / 좌표 정렬하기
 - 11651 / 좌표 정렬하기 2
+- 10814 / 나이순 
