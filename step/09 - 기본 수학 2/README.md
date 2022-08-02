@@ -12,13 +12,3 @@
     ```- 소수 응용 문제 1```
 6. 9020 [골드바흐의 추측](https://www.acmicpc.net/problem/9020)
     ```- 소수 응용 문제 2```
-7. 1085 [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
-    ```- 직사각형과 점의 거리를 구하는 문제```
-8. 3009 [네 번째 점](https://www.acmicpc.net/problem/3009)
-    ```- 직사각형을 완성하는 문제```
-9. 4153	[직각삼각형](https://www.acmicpc.net/problem/4153)
-    ```- 피타고라스의 정리에 대해 배우는 문제```
-10. 3053	[택시 기하학](https://www.acmicpc.net/problem/3053)
-    ```- 유클리드 기하학과 택시 기하학에 대한 문제```
-11. 1002	[터렛](https://www.acmicpc.net/problem/1002)
-    ```- 두 원의 교점의 개수를 구하는 문제```

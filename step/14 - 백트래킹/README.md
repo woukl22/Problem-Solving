@@ -1,6 +1,6 @@
 백트래킹 ```- 모든 경우를 탐색하는 백트래킹 알고리즘을 배워 봅시다.```
 ---
-1. 15649	[N과 M (1)](https://www.acmicpc.net/problem/15649)
+1. 15649 [N과 M (1)](https://www.acmicpc.net/problem/15649)
     ```- 백트래킹 입문 문제 1```
 2. 15650 [N과 M (2)](https://www.acmicpc.net/problem/15650)
     ```- 백트래킹 입문 문제 2```

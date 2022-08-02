@@ -16,9 +16,15 @@
     ```- 곱셈 문제```
 8. 1008 [A/B](https://www.acmicpc.net/problem/1008)
     ```- 나눗셈 문제. 이 문제에는 "스페셜 저지" 표시가 붙어 있는데, 이것은 예제 출력과 꼭 똑같이 출력할 필요는 없고 조건에 맞는 답을 출력하면 된다는 뜻입니다.```
-9. 10869	[사칙연산](https://www.acmicpc.net/problem/10869)
+9. 10869 [사칙연산](https://www.acmicpc.net/problem/10869)
     ```- 모든 연산 문제```
-10. 10430	[나머지](https://www.acmicpc.net/problem/10430)
+10. 10926 [??!](https://www.acmicpc.net/problem/10926)
+    ```입출력을 응용하는 문제??!```
+11. 18108 [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108)
+    ```식을 직접 세워서 계산하는 문제```
+12. 10430 [나머지](https://www.acmicpc.net/problem/10430)
     ```- 네 개의 계산식을 계산하는 문제. 이 문제를 푼 다음에는 직접 입력을 만들어서 넣어 봅시다. 어떤 사실을 관찰할 수 있나요?```
-11. 2588	[곱셈](https://www.acmicpc.net/problem/2588)
+13. 2588 [곱셈](https://www.acmicpc.net/problem/2588)
     ```- 빈 칸에 들어갈 수는?```
+14. ***[언어제한: Text, PHP]*** ~~25083 [새싹](https://www.acmicpc.net/problem/25083)
+    ```', ", `, \ 등의 문자에 주의하며 새싹을 출력하는 문제```~~ 
