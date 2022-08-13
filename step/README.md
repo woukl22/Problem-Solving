@@ -1,15 +1,15 @@
 # 단계별로 풀어보기
 
-1. [입출력과 사칙연산](https://www.acmicpc.net/step/1)
-2. [조건문](https://www.acmicpc.net/step/4)
-3. ~~[반복문](https://www.acmicpc.net/step/3)~~ 완료
-4. ~~[1차원 배열](https://www.acmicpc.net/step/6)~~ 완료
-5. ~~[함수](https://www.acmicpc.net/step/5)~~ 완료
-6. ~~[문자열](https://www.acmicpc.net/step/7)~~ 완료
-7. ~~[기본 수학 1](https://www.acmicpc.net/step/8)~~ 완료
-8. ~~[기본 수학 2](https://www.acmicpc.net/step/10)~~ 완료
+1. ~~[입출력과 사칙연산](https://www.acmicpc.net/step/1)~~
+2. ~~[조건문](https://www.acmicpc.net/step/4)~~
+3. ~~[반복문](https://www.acmicpc.net/step/3)~~
+4. ~~[1차원 배열](https://www.acmicpc.net/step/6)~~
+5. ~~[함수](https://www.acmicpc.net/step/5)~~
+6. ~~[문자열](https://www.acmicpc.net/step/7)~~
+7. ~~[기본 수학 1](https://www.acmicpc.net/step/8)~~
+8. ~~[기본 수학 2](https://www.acmicpc.net/step/10)~~
 9. [재귀](https://www.acmicpc.net/step/19)
-10. ~~[브루트 포스](https://www.acmicpc.net/step/22)~~ 완료
+10. ~~[브루트 포스](https://www.acmicpc.net/step/22)~~
 11. [정렬](https://www.acmicpc.net/step/9)
 12. [집합과 맵](https://www.acmicpc.net/step/49)
 13. [기하 1](https://www.acmicpc.net/step/50)
@@ -20,11 +20,11 @@
 
 ## 다시 풀어볼 문제
 #### 05 - Function
-- 4673 / 셀프 넘버
-- 1065 / 한수
+- ~~4673 / 셀프 넘버~~ *22.08.13*
+- ~~1065 / 한수~~ *22.08.13*
 
 #### 06 String
-- 1316 / 그룹 단어 체커
+- ~~1316 / 그룹 단어 체커~~ *22.08.13*
 
 #### 07 Basic mathematics 1
 - 1193 / 분수 찾기
